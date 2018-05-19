@@ -3,3 +3,32 @@ body {
     background-repeat: no-repeat;
   
 }
+
+#possibleAnswer1:hover {
+    background-color: green;
+
+}
+
+#possibleAnswer2:hover {
+    background-color: green;
+
+}
+
+#possibleAnswer3:hover {
+    background-color: green;
+
+}
+
+#possibleAnswer4:hover {
+    background-color: green;
+
+}
+
+#next:hover {
+    background-color: green;
+}
+
+#timeRemaining {
+    font-style: italic;
+    
+}
